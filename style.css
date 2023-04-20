@@ -1,0 +1,128 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-position: center;
+    background-color: rgb(99, 10, 10);
+    
+    
+}
+header{
+    background-color: rgba(0, 0, 0, 0.479);
+    border-radius: 10px;
+    
+}
+#nav-bar{
+    color:antiquewhite ;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+pre{
+    font-size:larger;
+}
+.start{
+    width: 800px;
+    font-size: x-large;
+    padding: 3px 280px 3px;
+    color: antiquewhite;
+    display: flex;
+    justify-content:space-around;
+}
+.boxes{
+    font-size: x-large;
+    color: antiquewhite;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 0px 15px 0px;
+}
+.box1{
+    width: 400px;
+    padding: 1em;
+    border-radius: 10px;
+    box-shadow: 3px;
+    background-color: rgba(0, 0, 0, 0.479);
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.box2{
+    width: 400px;
+    padding: 1em;
+    border-radius: 10px;
+    box-shadow: 3px;
+    background-color: rgba(0, 0, 0, 0.479) ;
+    display: flex;
+    justify-content: space-around;
+}
+ul{
+    list-style: none;
+}
+.dis{
+    color: antiquewhite;
+    font-size: x-large;
+}
+#skull{
+    background-color: rgba(0, 0, 0, 0.479);
+    border-radius: 10px;
+    padding: 1em;
+    color: antiquewhite;
+    font-size: x-large;
+    display: flex;
+    justify-content: space-around;
+}
+.s{
+    width: 300px;
+    height: 350px;
+}
+#thorax{
+    background-color: rgba(0, 0, 0, 0.479);
+    border-radius: 10px;
+    padding: 1em;
+    color: antiquewhite;
+    font-size: x-large;
+    display: flex;
+    justify-content: space-around;
+}
+.t{
+    width: 300px;
+    height: 350px;
+}
+#vertib{
+    background-color: rgba(0, 0, 0, 0.479);
+    border-radius: 10px;
+    padding: 1em;
+    color: antiquewhite;
+    font-size: x-large;
+    display: flex;
+    justify-content: space-around;
+}
+.v{
+    width: 300px;
+    height: 350px;
+}
+#fore{
+    background-color: rgba(0, 0, 0, 0.479);
+    border-radius: 10px;
+    padding: 1em;
+    color: antiquewhite;
+    font-size: x-large;
+    display: flex;
+    justify-content: space-around;
+}
+.f{
+    width: 300px;
+    height: 350px;
+}
+#hind{
+    background-color: rgba(0, 0, 0, 0.479);
+    border-radius: 10px;
+    padding: 1em;
+    color: antiquewhite;
+    font-size: x-large;
+    display: flex;
+    justify-content: space-around;
+}
+.h{
+    width: 300px;
+    height: 350px;
+}
